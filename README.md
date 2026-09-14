@@ -8,7 +8,7 @@ I build practical software applications and AI/ML solutions focused on solving r
 
 ##  Featured Projects
 
-###  RetailVision AI
+### [RetailVision AI](https://github.com/ak5g12/RetailVision-AI)
 AI-powered retail intelligence platform combining full-stack development with machine learning for business decision support.
 
 **Highlights:**
@@ -21,7 +21,7 @@ AI-powered retail intelligence platform combining full-stack development with ma
 
 **Tech:** React, Node.js, Express.js, Python, FastAPI, MongoDB, Machine Learning
 
-###  StorePilot
+###  [StorePilot](https://github.com/ak5g12/StorePilot-)
 Business management and inventory platform designed to help small businesses manage their day-to-day operations.
 
 **Highlights:**
@@ -33,22 +33,22 @@ Business management and inventory platform designed to help small businesses man
 
 **Tech:** React, Node.js, Express.js, MongoDB, REST APIs
 
-###  TaskFlow Pro
+###  [TaskFlow Pro](https://github.com/ak5g12/taskflow-pro)
 Full-stack task management application focused on organizing, tracking, and managing tasks efficiently.
 
 **Tech:** MERN Stack, MongoDB, REST APIs
 
-###  Toggle Bulb
+###  [Toggle Bulb](https://github.com/ak5g12/Toggle-Bulb)
 Interactive frontend web application demonstrating JavaScript DOM manipulation and user interaction.
 
 **Tech:** HTML, CSS, JavaScript
 
-###  Customer Retention AI
+###  [Customer Retention AI](https://github.com/ak5g12/customer-retention-ai)
 AI-based customer retention and dynamic pricing model designed to analyse customer behaviour and support personalized offers and pricing decisions.
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn, Machine Learning
 
-###  HealthSphere – Digital Healthcare Platform
+###  [HealthSphere](https://github.com/ak5g12/HealthSphere-Digital-Healthcare-Platform)
 Flask-based healthcare web application designed to simplify hospital management and improve patient experience.
 
 **Highlights:**
@@ -59,6 +59,21 @@ Flask-based healthcare web application designed to simplify hospital management 
 - Responsive & Clean UI
 
 **Tech:** Python, Flask, HTML, CSS, SQLite / Text Files
+
+### 📊 [Python & SQL Projects](https://github.com/ak5g12/Python_And_SQL_Projects)
+
+A collection of practical Python and SQL projects focused on data analysis,
+database management, and problem solving.
+
+**Projects Included:**
+- Performance Analyser — Python
+- Bank Transaction Analysis — NumPy & Pandas
+- EduDistrict Analysis — Python, Pandas & Data Visualization
+- Employee Analysis — SQL
+- Expance Tracker — Python & JSON
+- Student Department Management — MySQL
+
+**Technologies:** Python, NumPy, Pandas, Matplotlib, SQL, MySQL, JSON
 
 ---
 
