@@ -93,6 +93,14 @@ database management, and problem solving.
 
 ---
 
+## 🏆 Achievements
+
+- **LeetCode Knight** – Earned the Knight Badge for competitive programming and problem-solving excellence. [View Profile](
+https://leetcode.com/u/Aditya_Kumar_Bharti_/)
+
+---
+
+
 ##  Areas I Work With
 
 - AI & Machine Learning
